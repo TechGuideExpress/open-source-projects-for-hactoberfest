@@ -28,4 +28,11 @@ For more query you can visit the Official Hactoberfest 2021 FAQs here
 To learn about making your First Open Source contribution watch this video.
 <br>
 
-<h3>❤️ Contributor</h3>
+<h3>❤️ Contributors</h3>
+@dhruvabisht
+@pragya7156
+@Sahilnegi-1
+@priya-singh07
+@Prerana-Singh3000
+
+
