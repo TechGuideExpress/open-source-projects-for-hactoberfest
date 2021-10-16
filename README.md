@@ -1,8 +1,8 @@
-<h1>Hacktoberfest2021<h1>
+<h1>Hacktoberfest2021</h1>
 <br>
 
 
-Welcome Contributors,
+<h2>Welcome Contributors</h2>,
 
 This repository has been created as a medium for developers to participate in the Hactoberfest 2021 event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
@@ -26,5 +26,6 @@ Be in touch with via Linkedin
 For more query you can visit the Official Hactoberfest 2021 FAQs here
 
 To learn about making your First Open Source contribution watch this video.
+<br>
 
-❤️ Contributor
+<h3>❤️ Contributor</h3>
