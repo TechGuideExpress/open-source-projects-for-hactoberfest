@@ -8,6 +8,9 @@ addbtn.addEventListener("click", function(e){
 
     let addtext = document.getElementById('addtext');
     let notes = localStorage.getItem("notes");
+    if(addtext.value==""){
+        alert("Please Enter Some Value");
+    }else{
     if(notes == null){
         notesObj = [];
     }
@@ -21,6 +24,7 @@ addbtn.addEventListener("click", function(e){
     // console.log(notesObj);
 
     showNotes();
+    }
 })
   //function to show elements from local storage
 
