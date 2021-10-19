@@ -7,7 +7,6 @@
 :root{
     --light-bg : rgb(32, 44, 59);
     --color-p1 : rgb(233, 171, 56);
-
 }
 
 body{
@@ -29,14 +28,12 @@ h3{
 
 h2 span {
     color: var(--color-p1);
-
 }
 
 .cover{
     height: 50vh;
     margin-top: 2rem;
 }
-
 
 .Timer-body{
     min-height: 100vh;
@@ -46,13 +43,11 @@ h2 span {
     justify-content: center;
 }
 
-
 .main-container{
     display: flex;
     justify-content:space-around;
     text-align: center;
 }
-
 
 .day , .hour , .minute , .second {
     font-size: 2rem;
