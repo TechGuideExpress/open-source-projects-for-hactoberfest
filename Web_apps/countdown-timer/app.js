@@ -1,7 +1,7 @@
 //function for the timer
 
 const countDownTimer = () =>{
-    // here update the date for the countdown
+    // here update the date for the countdown you want
     const baseDate = new Date("October 31, 2021 00:00:00").getTime();  
     //for getting the current time
     const currentDate = new Date().getTime();
